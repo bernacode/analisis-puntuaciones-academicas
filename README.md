@@ -1,80 +1,58 @@
-📊 Proyecto de Análisis de Datos – Práctica y Aprendizaje
+# 📊 Proyecto de Análisis de Datos – Práctica y Aprendizaje
 
-Este repositorio reúne diversos análisis realizados con el objetivo de poner en práctica mis conocimientos en ciencia de datos. Cada ejercicio responde a una pregunta específica y está desarrollado aplicando herramientas fundamentales de programación, estadística y visualización.
+Este repositorio reúne diversos análisis realizados con el objetivo de **poner en práctica mis conocimientos en ciencia de datos**. Cada ejercicio responde a una pregunta específica y está desarrollado aplicando herramientas fundamentales de programación, estadística y visualización.
 
-🎯 Objetivo del proyecto
+---
 
-Consolidar mi aprendizaje en Python para análisis de datos.
+## 🎯 Objetivo del proyecto
 
-Resolver preguntas reales mediante exploración, limpieza y modelado básico.
+- Consolidar mi aprendizaje en Python aplicado al análisis de datos.
+- Resolver preguntas reales mediante exploración, limpieza y análisis.
+- Utilizar librerías clave como **pandas**, **NumPy** y **Matplotlib**.
+- Desarrollar una metodología clara para comunicar resultados.
 
-Utilizar librerías clave como pandas, NumPy, Matplotlib y conceptos estadísticos.
+---
 
-Desarrollar una metodología clara para comunicar resultados.
+## 📁 Estructura del repositorio
 
-📁 Estructura del repositorio
-/data/ → Conjuntos de datos utilizados en los análisis  
-/notebooks/ → Notebooks con el desarrollo paso a paso  
-/scripts/ → Funciones reutilizables (procesamiento, gráficos, etc.)  
-/figures/ → Gráficos generados en los análisis  
-README.md → Descripción general del proyecto
+/data/ → Conjuntos de datos utilizados
+/notebooks/ → Notebooks con el desarrollo paso a paso
+/src/ → Funciones reutilizables
+/reports/ → Gráficos generados y reporte final
+README.md → Descripción del proyecto
 
-🧠 Habilidades puestas en práctica
+---
 
-Manipulación de datos con pandas
+## 🧠 Habilidades puestas en práctica
 
-Operaciones numéricas con NumPy
+- Manipulación de datos con **pandas**
+- Operaciones numéricas con **NumPy**
+- Visualización con **Matplotlib**
+- Limpieza y transformación de datos
+- Estadística descriptiva
+- Interpretación de relaciones entre variables
+- Documentación clara de procesos
 
-Gráficos y visualizaciones con Matplotlib
+---
 
-Limpieza y transformación de datos
-
-Estadística descriptiva
-
-Interpretación de relaciones entre variables
-
-Documentación clara del proceso
-
-📈 Contenido del proyecto
+## 📈 Contenido del proyecto
 
 Cada análisis incluye:
 
-Pregunta o problema a resolver
+1. **Pregunta o problema a resolver**
+2. **Exploración del dataset**
+3. **Cálculo de métricas relevantes**
+4. **Visualizaciones**
+5. **Conclusiones basadas en datos**
 
-Exploración del dataset
+---
 
-Cálculo de métricas relevantes
+## 📈 Tecnologias Utilizadas
 
-Gráficos y visualizaciones
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook / VS Code
 
-Conclusiones basadas en datos
-
-🚀 Cómo ejecutar el proyecto
-
-Clona el repositorio:
-
-git clone https://github.com/tu-usuario/tu-repo.git
-
-Instala las dependencias necesarias:
-
-pip install -r requirements.txt
-
-Abre los notebooks o scripts:
-
-code .
-
-🧩 Tecnologías utilizadas
-
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Jupyter Notebook / VS Code
-
-📬 Contacto
-
-Siéntete libre de abrir un issue o contactarme si quieres discutir ideas o sugerencias relacionadas con los análisis de este proyecto.
+---
