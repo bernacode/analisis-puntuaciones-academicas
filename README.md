@@ -15,11 +15,11 @@ Este repositorio reúne diversos análisis realizados con el objetivo de **poner
 
 ## 📁 Estructura del repositorio
 
-/data/ → Conjuntos de datos utilizados
-/notebooks/ → Notebooks con el desarrollo paso a paso
-/src/ → Funciones reutilizables
-/reports/ → Gráficos generados y reporte final
-README.md → Descripción del proyecto
+- /data/ → Conjuntos de datos utilizados
+- /notebooks/ → Notebooks con el desarrollo paso a paso
+- /src/ → Funciones reutilizables
+- /reports/ → Gráficos generados y reporte final
+- README.md → Descripción del proyecto
 
 ---
 
