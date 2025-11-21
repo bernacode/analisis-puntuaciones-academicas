@@ -10,4 +10,13 @@ def types_asymmetry(skew):
 
 def types_kurtosis(kurtosis):
 
-    return
+      if kurtosis > 0:
+            return "Leptocúrtica"
+      elif kurtosis < 0:
+            return "Platicúrtica"
+      else:
+            return "Mesocúrtica" 
+
+
+
+
