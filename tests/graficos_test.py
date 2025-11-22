@@ -3,6 +3,7 @@ import os
 import pandas as pd
 import matplotlib.pyplot as pls
 import numpy as np
+from itertools import combinations
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
@@ -22,4 +23,11 @@ df = pd.DataFrame({
     'y_neg': y_neg,
     'y_ind': y_ind
 })
+
+# graficos.correlation_graph(df["x"],df["y_ind"],"purple")
+
+
+arr = ["math score","reading score","writing score"]
+
+print( list(combinations(arr, 2)))
 
